@@ -1,4 +1,4 @@
-# Pizza-Order
+# Order-App
 Dự án môn Lập trình di động được viết bằng java. Dự án sử dụng sqlite cho việc lưu trữ dữ liệu.
 
 # Chức năng và hoạt động
